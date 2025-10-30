@@ -2,7 +2,7 @@
 
 A **real-time earthquake visualization app** built with **React** and **React-Leaflet**, using the **USGS Earthquake API** to display live seismic activity on an interactive world map.
 
-QuakeTracker Preview - https://3nkl2m-3000.csb.app/
+QuakeTracker Preview - https://8fnpp3-3000.csb.app/
 
 ---
 
